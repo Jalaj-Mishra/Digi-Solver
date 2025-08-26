@@ -1,0 +1,5 @@
+
+
+# write command to ignore the build folder
+build/
+dist/
